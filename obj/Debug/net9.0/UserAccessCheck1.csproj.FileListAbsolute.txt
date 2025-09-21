@@ -1,0 +1,14 @@
+G:\Rider\UserAccessCheck1\bin\Debug\net9.0\UserAccessCheck1.exe
+G:\Rider\UserAccessCheck1\bin\Debug\net9.0\UserAccessCheck1.deps.json
+G:\Rider\UserAccessCheck1\bin\Debug\net9.0\UserAccessCheck1.runtimeconfig.json
+G:\Rider\UserAccessCheck1\bin\Debug\net9.0\UserAccessCheck1.dll
+G:\Rider\UserAccessCheck1\bin\Debug\net9.0\UserAccessCheck1.pdb
+G:\Rider\UserAccessCheck1\obj\Debug\net9.0\UserAccessCheck1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Rider\UserAccessCheck1\obj\Debug\net9.0\UserAccessCheck1.AssemblyInfoInputs.cache
+G:\Rider\UserAccessCheck1\obj\Debug\net9.0\UserAccessCheck1.AssemblyInfo.cs
+G:\Rider\UserAccessCheck1\obj\Debug\net9.0\UserAccessCheck1.csproj.CoreCompileInputs.cache
+G:\Rider\UserAccessCheck1\obj\Debug\net9.0\UserAccessCheck1.dll
+G:\Rider\UserAccessCheck1\obj\Debug\net9.0\refint\UserAccessCheck1.dll
+G:\Rider\UserAccessCheck1\obj\Debug\net9.0\UserAccessCheck1.pdb
+G:\Rider\UserAccessCheck1\obj\Debug\net9.0\UserAccessCheck1.genruntimeconfig.cache
+G:\Rider\UserAccessCheck1\obj\Debug\net9.0\ref\UserAccessCheck1.dll
